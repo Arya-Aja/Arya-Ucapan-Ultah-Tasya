@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday, Cintakuu!</title>
+    <style>
+        body {
+            font-family: 'Helvetica', sans-serif;
+            background-color: #fce4ec; /* Warna latar pink muda */
+            color: #333;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #d81b60; /* Warna pink tua */
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+        p {
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Selamat Ulang Tahun ke-[18], [My Little Princess]!</h1>
+
+
+        <p>
+            Ini adalah halaman web sederhana yang arya buat khusus untukmu. 
+            Arya ingin kamu tahu betapa berartinya kamu bagiku. Setiap momen yang dulu pernah kita lewati akan selalu terekam di hati arya, arya selalu sayang kamu.
+        </p>
+
+
+        <img src="https://www.imghippo.com/i/Wsry4984aU.png" alt="Foto Lucu Kamu">
+
+
+        <h2>Sedikit Pesan Buat Tasya</h2>
+        <p>
+            [Selamat ulang tahun yaa, cantikkk. 
+Hari ini adalah hari untuk merayakan dirimu, semua perjuanganmu, ketangguhanmu, dan kebaikan hatimu. Aku tahu perjalananmu tidak selalu mudah, tapi lihatlah dirimu sekarang. Kamu berdiri tegak, lebih kuat dari sebelumnya, dan itu membuatku luar biasa bangga. Jangan pernah sekalipun meragukan kemampuanmu. Di mataku, kamu bisa mencapai apa pun yang kamu impikan. Anggap usia yang baru ini sebagai babak baru yang penuh dengan kesempatan. Kejar semua mimpimu, taklukkan semua tantangan.
+Aku akan selalu menjadi pendukung nomor satumu, orang yang akan bertepuk tangan paling keras untuk setiap pencapaianmu dan yang akan memelukmu paling erat saat kamu butuh sandaran. Semangat terus ya kuliahnya, jangan sampe lupa buat belajar, jangan sampe bolos kelas/tipsen ya cantikk, harus fokus dan "do the best" yaa buat kuliahnya. Jangan lupa juga makan makan makan yaa, biar tetep happy dan kesehatannya tetep terjaga, okayy?? kalo cape jangan lupa istirahat, jangan maksain sesuatu yang ngelewatin batas kemempuan diri kamu, kalo pengen minta saran/cerita sesuatu/tanya tanya sesuatu, kamu bisa tanyain ke arya, arya memang sibuk dan mau fokus kuliah, tapi bukan berarti arya mau menjauh dari kamu, arya pengen kita tetep ngejaga hubungan pertemanan kita sebaik-baiknya, saling sharing dan cerita gapapa banget tasyaa, malahan arya senang bisa ngobrol atau sekedar chattan sama kamu lagi, gituu ajaa yaa cantikkk pesannya, Semoga langkahmu ke depan semakin ringan dan penuh berkah. Teruslah berjuang, My Little Princess. Arya selalu percaya sama kamuu.
+Dari Arya akan selalu bangga padamu.]
+        </p>
+
+
+        <p>Dengan segenap cinta,</p>
+        <p><strong>[Jatmiko Arya]</strong></p>
+    </div>
+</body>
+</html>
+
